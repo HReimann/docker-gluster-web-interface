@@ -1,5 +1,5 @@
-FROM ubuntu:xenial
-MAINTAINER Like Ma <likemartinma@gmail.com>
+FROM HReimann:baseimage-ubunt
+MAINTAINER HReimann
 
 ENV DEBIAN_FRONTEND noninteractive
 
